@@ -1,0 +1,710 @@
+{ 
+  "what": [
+    {
+      "id": 0,
+      "title": "A/B Testing",
+      "description": "A/B 페이지를 2개 만들거나 페이지 안에 A/B 영역 을 만들어 어느쪽이 효과적인지 테스트 한다. 기획+분석+디자인+개발 등 involve 되는 팀이 다양함"
+    },
+    {
+      "id": 1,
+      "title": "AEM 영역 / 닷컴 영역",
+      "description": "홈 - 상세페이지 (PD) - 카트에 상품을 담기 이전까지"
+    },
+    {
+      "id": 2,
+      "title": "AI",
+      "description": "Accenture Interactive (개발사 ; Tagging Implementation Guide를 토대로 사이트에 태깅 개발 및 배포를 해주는 업무를 주로 수행함)"
+    },
+    {
+      "id": 3,
+      "title": "Authoring 어서링",
+      "description": "AEM 에서 Template 생성, Component 삽입 후, 다이얼로그에 콘텐츠를 입력하는 과정"
+    },
+    {
+      "id": 4,
+      "title": "B2C",
+      "description": "Business to Customer. 제품이나 서비스를 직접 사용하는 소비자에게 판매가 이루어지는 방식"
+    },
+    {
+      "id": 5,
+      "title": "B5",
+      "description": "Smartphones (제품코드명 Galaxy Z Filp5)"
+    },
+    {
+      "id": 6,
+      "title": "BC",
+      "description": "Buying Configurator 하기 전 여러 옵션 선택해서 제품 specify 하는 용도의 페이지"
+    },
+    {
+      "id": 7,
+      "title": "BC 페이지",
+      "description": "[Buying Configurator] buy 하기 전 여러 옵션 선택해서 제품 specify 하는 용도의 페이지"
+    },
+    {
+      "id": 8,
+      "title": "BDP",
+      "description": "Big Data Platform."
+    },
+    {
+      "id": 9,
+      "title": "Bounce Rate",
+      "description": "사이트에 들어오자마자 아무것도 하지 않고 나가는 비율"
+    },
+    {
+      "id": 10,
+      "title": "Bot Traffic 봇 트래픽",
+      "description": "봇을 돌려서 S.com에 의미 없는 트래픽을 발생시키는 경우 이를 제외하는 목적으로 사용. Internal Filter와 유사. Internal Filter == Referrer. (구글닷컴에서 들어오는 referrer url 필터)"
+    },
+    {
+      "id": 11,
+      "title": "CID",
+      "description": "Campaign ID"
+    },
+    {
+      "id": 12,
+      "title": "Clean Room 클린룸",
+      "description": "네트워크가 안되는 테스트용 방"
+    },
+    {
+      "id": 13,
+      "title": "CMS",
+      "description": "Content Management System 예) AEM"
+    },
+    {
+      "id": 14,
+      "title": "Component 컴포넌트",
+      "description": "웹 페이지 각 구역 별 템플릿. SDS 에 컴포넌트 관리 팀이 별도로 존재함."
+    },
+    {
+      "id": 15,
+      "title": "Consent Mode 동의 모드",
+      "description": "GDPR 이슈 대응을 위해 웹사이트 진입 시 사용자 정보 수집 동의여부를 확인하는 Cookie Banner를 보고 사용자가 선택한 Cookie 사용 옵션에 따라 Google Analytics(GA), Google Ads 및 기타 Google Platform에서 태그가 작동하는 방식을 제어할 수 있는 기술."
+    },
+    {
+      "id": 16,
+      "title": "Conversion Rate",
+      "description": "(구매) 전환율. 가장 중요한 KPI"
+    },
+    {
+      "id": 17,
+      "title": "CST",
+      "description": "Client Side Tagging"
+    },
+    {
+      "id": 18,
+      "title": "CTA",
+      "description": "Call To Action. 사용자의 반응을 유도하는 행위 혹은 요소. (ex. 배너, 버튼, 링크)"
+    },
+    {
+      "id": 19,
+      "title": "CTR",
+      "description": "Click Through Rate. 광고 클릭률"
+    },
+    {
+      "id": 20,
+      "title": "CUG",
+      "description": "Closed User Group? 특정 절차에 따라 가입이 요구되는 사용자 그룹(ex: 유료구독가입자 등)"
+    },
+    {
+      "id": 21,
+      "title": "D2C",
+      "description": "Direct-to-consumerAEM. 소비자와의 직접 거래를 의미함. 상품을 제조하고 판매하는 판매자와 그것을 구매하는 소비자 사이의 중간 유통 프로세스를 없애고, 판매자와 소비자가 직접 소통할 수 있게 하는 비즈니스 모델"
+    },
+    {
+      "id": 22,
+      "title": "DTM",
+      "description": "Dynamic Tag Manager. Adobe Launch 이전 버전을 부르는 말."
+    },
+    {
+      "id": 23,
+      "title": "Entry Page",
+      "description": "Bounce Rate 에 영향을 미치는 첫 인입 페이지"
+    },
+    {
+      "id": 24,
+      "title": "EPP",
+      "description": "Enhanced Purchase Program. 특정 단체 전용 페이지. (특별 혜택 페이지)"
+    },
+    {
+      "id": 25,
+      "title": "ERP",
+      "description": "Enterprise Resource Planning (SAP)"
+    },
+    {
+      "id": 26,
+      "title": "Exit Page",
+      "description": "사이트 이용자가 마지막으로 사이트에서 이탈하는 페이지"
+    },
+    {
+      "id": 27,
+      "title": "ETA",
+      "description": "Estimated Time of Accompishment 예상 완료 일자"
+    },
+    {
+      "id": 28,
+      "title": "FamilyNet",
+      "description": "삼성 임직원몰"
+    },
+    {
+      "id": 29,
+      "title": "Flagship (출시)",
+      "description": "Unpack Event. 2회/년 행사를 진행하며 상반기, 하반기에 나누어 진행함."
+    },
+    {
+      "id": 30,
+      "title": "Floodlight",
+      "description": "주로 Google의 광고 및 측정 플랫폼에서 사용되는 용어로, 특히 Google 마케팅 플랫폼의 맥락에서 자주 언급. Floodlight는 온라인 광고 캠페인의 효과를 측정하기 위한 컨버전 추적 시스템으로, 광고주와 마케터가 웹사이트에서 사용자 상호작용을 추적하여 광고 캠페인의 성과를 평가하는데 이용."
+    },
+    {
+      "id": 31,
+      "title": "FRD",
+      "description": "Function Requirement  Document."
+    },
+    {
+      "id": 32,
+      "title": "GDPR",
+      "description": "General Data Protection Regulation. 유럽 연합(EU)의 모든 시민과 거주자를 위한 데이터 보호와 프라이버시에 중점을 둔 유럽 연합 법"
+    },
+    {
+      "id": 33,
+      "title": "GMC",
+      "description": "Global Marketing Center (not sure)"
+    },
+    {
+      "id": 34,
+      "title": "GMO",
+      "description": "글로벌마케팅 실 (Global Marketing Office ) 삼성닷컴 운영"
+    },
+    {
+      "id": 35,
+      "title": "GNB",
+      "description": "Global Navigation Bar. Ref) LNB"
+    },
+    {
+      "id": 36,
+      "title": "GPv2",
+      "description": "GPv2 는 Global Platform Version 2 를 의미. 삼성전자 미국 법인에서 자체 개발한 Shop Platform. 현재는 미국/인도 법인만 사용 중임."
+    },
+    {
+      "id": 37,
+      "title": "HCR",
+      "description": "모르겠음"
+    },
+    {
+      "id": 38,
+      "title": "Hit",
+      "description": "개인의 Interaction 의 가장 작은 단위"
+    },
+    {
+      "id": 39,
+      "title": "Home KV",
+      "description": "Key Visual. 웹사이트의 가장 메인 비주얼. 홈 화면에 있는 메인 배너. 영화나 광고 등에서 내용과 분위기를 나타내는 가장 핵심적인 장면."
+    },
+    {
+      "id": 40,
+      "title": "Hybris",
+      "description": "S.com 의 Shop Platform 중 하나로 SAP 의 e-Commerce Platform 임."
+    },
+    {
+      "id": 41,
+      "title": "ITC",
+      "description": "SDS 의 AEM / shop tagging 조직"
+    },
+    {
+      "id": 42,
+      "title": "Knowledge Base",
+      "description": "지식 베이스는 전문가 시스템의 구성 요소의 하나로서, 인공지능 에이전트가 사용될 분야와 관련된 지적 활동과 경험을 통해서 축적한 전문 지식 그리고 문제 해결에 필요한 사실과 규칙 등이 저장되어 있는 데이터베이스이다."
+    },
+    {
+      "id": 43,
+      "title": "IM",
+      "description": "IT & Mobile 모바일폰, 소통기기, 컴퓨터 등"
+    },
+    {
+      "id": 44,
+      "title": "LNB",
+      "description": "Local Navigation Bar"
+    },
+    {
+      "id": 45,
+      "title": "Magento",
+      "description": "PHP 로 개발된 오픈소스 이커머스 플랫폼"
+    },
+    {
+      "id": 46,
+      "title": "Microsite",
+      "description": "개인 웹페이지 또는 여러 페이지의 소규모 집단으로, 기존 웹사이트 내에서 개개의 실체로서 기능하거나 오프라인 활동을 보완하는 목적으로 사용된다. 마이크로사이트의 주 랜딩 페이지는 자체 도메인 네임 또는 서브도메인을 보유할 수 있다."
+    },
+    {
+      "id": 47,
+      "title": "MX",
+      "description": "Mobile eXperience (삼성전자 무선사업부 혹은 그 사업부와 관련된)"
+    },
+    {
+      "id": 48,
+      "title": "Natural Search",
+      "description": "때때로 Organic Search와 동의어로 사용됨. 사용자가 유료 광고의 영향을 받지 않고 특정 키워드로 온라인에서 정보를 찾는 자연스러운 행동을 강조하고자 할 때 사용. Ref) Organic Search, Paid Search"
+    },
+    {
+      "id": 49,
+      "title": "Organic Search",
+      "description": "[AD] 가 붙지 않은 검색결과. Search Engine Optimization (SEO) 을 통해 증가시킨다. 구글이나 네이버와 같은 검색 엔진에서 사용자가 검색어를 입력할 때 나타나는 유료 광고가 아닌, 자연적으로 나타나는 검색 결과를 의미함. Natrual Search과 동의 또는 유사어를 사용. Antonym) Paid Search"
+    },
+    {
+      "id": 50,
+      "title": "P",
+      "description": "phase 를 의미하며 약 2-3 년 단위로 변경된다. (ex. P6, P7 …. )"
+    },
+    {
+      "id": 51,
+      "title": "Paid Search",
+      "description": "[AD] 가 붙은 검색결과. 유료 검색 또는 PPC 광고를 노출하는 검색 결과. 광고주가 특정 키워드에 대해 상위에 표시되기 위해 지불한 광고가 노출되는 검색 결과. Antonym) Natural Search."
+    },
+    {
+      "id": 52,
+      "title": "Path Analysis",
+      "description": "전이분석. 사이트에 들어와 어떤 경로로 움직이는지를 분석하는 것. 가설을 세운 후 해당 path 를 따라간 숫자를 카운트"
+    },
+    {
+      "id": 53,
+      "title": "PCD",
+      "description": "Product Category Detail.  / PFS 에서 스마트폰 관련 페이지. https://www.samsung.com/uk/smartphones/."
+    },
+    {
+      "id": 54,
+      "title": "PD",
+      "description": "Product Detail / 상품 상세 페이지 https://www.samsung.com/uk/tvs/qled-tv/qn900a-85-inch-neo-qled-8k-smart-tv-qe85qn900atxxu/"
+    },
+    {
+      "id": 55,
+      "title": "PDP",
+      "description": "Product Detail Page / 상품 상세 페이지 https://www.samsung.com/uk/smartphones/galaxy-s24/"
+    },
+    {
+      "id": 56,
+      "title": "PengTai",
+      "description": "펑타이 PTKorea (제일기획 디지털 마케팅 자회사, PTKOREA는 펑타이 코리아의 새로운 브랜드명입니다.)"
+    },
+    {
+      "id": 57,
+      "title": "PF",
+      "description": "Product Finder / 고객이 제품을 검색하거나 listing 하는 페이지 https://www.samsung.com/uk/smartphones/galaxy-s/"
+    },
+    {
+      "id": 58,
+      "title": "PFS",
+      "description": "Product Family Showcase. 제품군의 설명 및 관련 제품군 마케팅 페이지 (samsung.com/uk/mobile > discover mobile) https://www.samsung.com/uk/mobile/"
+    },
+    {
+      "id": 59,
+      "title": "PI",
+      "description": "Purchase Intention. 고객의 구매의사를 보여주는 CTA 들. 카트담기/구매/preorder 등의 버튼"
+    },
+    {
+      "id": 60,
+      "title": "PIC",
+      "description": "Person In Charge"
+    },
+    {
+      "id": 61,
+      "title": "PII",
+      "description": "개인 식별 정보 (PII)는 주민등록번호, 이름, 이메일 주소와 같이 특정한 개인과 연결되어 개인의 신원을 밝히는 데 사용할 수 있는 모든 정보입니다. PII in GDPR : Personally Identifiable Information (PII) is any data that helps in tracking back an individual or contact an individual directly. Names, email addresses, phone numbers, SSNs, credit card information are a few examples of PII."
+    },
+    {
+      "id": 62,
+      "title": "PIM",
+      "description": "Product Information Management 기간계 (아마 아카마이를 쓴다. 아닐 수도 있다.) PIM에 현지어가 들어가있으면 수정이 안됨"
+    },
+    {
+      "id": 63,
+      "title": "PLP",
+      "description": "Product Listing Page / 상품 목록 페이지"
+    },
+    {
+      "id": 64,
+      "title": "POC",
+      "description": "Proof of Concept 새로운 프로젝트가 실제로 실현가능성이 있는지 효과와 효용, 기술적인 관점에서부터 검증을 하는 과정"
+    },
+    {
+      "id": 65,
+      "title": "PPC",
+      "description": "Pay-Per-Click?"
+    },
+    {
+      "id": 66,
+      "title": "PV",
+      "description": "Page View?"
+    },
+    {
+      "id": 67,
+      "title": "Q5",
+      "description": "Smartphones (제품코드명 Galaxy Fold5)"
+    },
+    {
+      "id": 68,
+      "title": "RC",
+      "description": "RawCode"
+    },
+    {
+      "id": 69,
+      "title": "Referrer",
+      "description": "유입채널, 유입소스. 어디서 고객이 유입되었는가 (광고, 배너 등)"
+    },
+    {
+      "id": 70,
+      "title": "RS",
+      "description": "Report Suite. (Adobe Analytics) 디지털 데이터를 수집, 분석 및 보고하는 데 사용되는 강력한 도구."
+    },
+    {
+      "id": 71,
+      "title": "SDD",
+      "description": "Solution Design Document"
+    },
+    {
+      "id": 72,
+      "title": "SDR",
+      "description": "Solution Design Reference"
+    },
+    {
+      "id": 73,
+      "title": "SKU",
+      "description": "Stock Keeping Unit. 모든 상품에는 상품코드라는 것이 있습니다. 각각의 제품을 상품군으로 UNIT 화하여서 SKU 즉, 상품코드로 지정해서 재고관리가 용이하도록 만드는 것입니다."
+    },{
+      "id": 74,
+      "title": "SMB",
+      "description": "Small and Medium-sized Business. SHOP 영역의 Business 사이트를 의미하며, EPP Property를 사용하여 데이터를 수집합니다. B2B에서 물건을 카트에 담은 시점 이후의 영역을 다룹니다."
+    },
+    {
+      "id": 75,
+      "title": "SHOP 영역",
+      "description": "카트 담기 - 결제 - 주문완료와 같은 단계를 포함하는 영역으로, URL이 'shop.'으로 시작합니다."
+    },
+    {
+      "id": 76,
+      "title": "SLA",
+      "description": "Service Level Agreement. 서비스 수준 계약으로, 서비스 제공자와 사용자 간의 서비스 수준을 명시하는 계약입니다."
+    },
+    {
+      "id": 77,
+      "title": "SPA",
+      "description": "Single Page Application. 싱글 페이지 애플리케이션으로, 웹 애플리케이션이 하나의 페이지로 구성되어 있는 형태를 가리킵니다."
+    },
+    {
+      "id": 78,
+      "title": "SRP",
+      "description": "Search Result Page. 검색 결과 페이지로, 사용자가 검색을 실행했을 때 나타나는 결과 페이지를 의미합니다."
+    },
+    {
+      "id": 79,
+      "title": "SST",
+      "description": "Server Side Tagging. 서버 측 태깅으로, 클라이언트 측 태깅과 대비됩니다."
+    },
+    {
+      "id": 80,
+      "title": "STD",
+      "description": "System Development Testing. 시스템 개발 테스트로, 소프트웨어 개발 단계에서 시스템을 테스트하는 과정입니다."
+    },
+    {
+      "id": 81,
+      "title": "STG",
+      "description": "Staging. 스테이징 환경으로, 실제 운영 환경에 반영되기 전에 시스템이 테스트되는 환경을 가리킵니다."
+    },
+    {
+      "id": 82,
+      "title": "TMS",
+      "description": "Tag Management System. 태그 관리 시스템으로, 웹사이트에 사용되는 태그를 관리하고 배포하는 시스템입니다."
+    },
+    {
+      "id": 83,
+      "title": "Tracking Code",
+      "description": "웹사이트 방문자의 행동을 추적하고 데이터를 수집하는 데 사용되는 코드로, 구글 애널리틱스나 Adobe Analytics와 같은 플랫폼에서 활용됩니다."
+    },
+    {
+      "id": 84,
+      "title": "TTI",
+      "description": "Time to Interactive. 웹 페이지의 상호 작용 가능한 상태가 되기까지 걸리는 시간을 나타내는 지표입니다."
+    },
+    {
+      "id": 85,
+      "title": "UAT",
+      "description": "User Acceptance Testing. 사용자 수용 테스트로, 소프트웨어를 사용하는 사용자가 시스템을 테스트하는 과정을 의미합니다."
+    },
+    {
+      "id": 86,
+      "title": "Unpack 언팩",
+      "description": "삼성이 매년 2회 열리는 플래그쉽 제품 발표 이벤트를 가리킵니다."
+    },
+    {
+      "id": 87,
+      "title": "VD",
+      "description": "Visual Display. 시각적 표현으로, 제품이나 정보를 시각적으로 전달하는 방식을 의미합니다."
+    },
+    {
+      "id": 88,
+      "title": "VTEX",
+      "description": "삼성닷컴의 브라질 사이트에서 사용되는 이커머스 플랫폼입니다."
+    },
+    {
+      "id": 89,
+      "title": "WIP meeting",
+      "description": "Work In Progress 회의로, 진행 중인 작업에 대한 상태 및 계획을 이해관계자들과 공유하는 회의를 말합니다."
+    },
+    {
+      "id": 90,
+      "title": "HA/DA",
+      "description": "Home Appliances/Digital Appliances 가전 사업부 (가전제품들)"
+    },
+    {
+      "id": 91,
+      "title": "AEM (Adobe Experience Manager)",
+      "description": "웹 사이트 및 관련 서비스를 구축, 관리 및 배포하는 웹 기반 클라이언트 서버 시스템"
+    },
+    {
+      "id": 92,
+      "title": "VEC (Visual Experience Composer)",
+      "description": "VEC는 사이트 컨텍스트에서 개인화된 경험과 오퍼를 쉽게 만들고 테스트할 수 있는 WYSIWYG 사용자 인터페이스입니다. 웹 페이지(또는 오퍼) 또는 모바일 웹 페이지의 레이아웃 및 콘텐츠를 드래그 앤 드롭하고, 교체하고, 수정하여 타겟 활동에 대한 경험과 오퍼를 만들 수 있습니다."
+    },
+    {
+      "id": 93,
+      "title": "PVI",
+      "description": "PVI (Product Value Information) 제품 사진이나, PDP 페이지에 업로드되는 이미지/동영상/Text 를 Feature 단위로 등록할 수 있는 사이트 pvi.samsung.com "
+    },
+    {
+      "id": 94,
+      "title": "PBP/BC PD",
+      "description": "Product Buying Page / Buying Configurator PD Flagship 제품 전용 구매 페이지 "
+    },
+    {
+      "id": 95,
+      "title": "DAM",
+      "description": "Digital Assets Management AEM 어셋 저장소"
+    },
+    {
+      "id": 96,
+      "title": "GRO",
+      "description": "Global Roll Out 글로벌 확산"
+    },
+    {
+      "id": 97,
+      "title": "i18n",
+      "description": "internationalization 알파벳이 20개인데, 가장 첫 글자인 i와 가장 마지막 글자인 n 사이에 알파벳이 18개가 있다고 해서 i18n \n 자바스크립트 국제화 프레임워크 다국어 처리 "
+    },    {
+      "id": 98,
+      "title": "CE",
+      "description": "Consumer Electronics의 약자로 디지털 TV, 모니터, 에어컨, 냉장고 \n https://www.samsung.com/sec/aboutsamsung/business-area/consumer-electronics/"
+    },
+    {
+      "id": 99,
+      "title": "DX",
+      "description": "2021년 통합 CE + IM"
+    },
+    {
+      "id": 100,
+      "title": "AA",
+      "description": "Adobe Analytics\n고객 데이터에 대한 보고, 시각화 및 분석 기능을 제공하는 분석 툴"
+    },
+    {
+      "id": 101,
+      "title": "AAM",
+      "description": "Adobe Audience Manager\n고객 데이터 수집, 세분화 솔루션"
+    },
+    {
+      "id": 102,
+      "title": "ACDL",
+      "description": "Adobe Client Data Layer\nEDDL 의 일종으로써 AEM 사용 시 Adobe 에서 제공하는 Data Layer."
+    },
+    {
+      "id": 103,
+      "title": "AEM",
+      "description": "Adobe Experience Manager\nAEM Sites는 디지털 크로스채널 고객 경험을 제공하는 웹 콘텐츠 관리 플랫폼으로 웹 구성 요소 라이브러리에서 실행 중인 편집 및 드래그 앤 드롭 페이지 구성 지원에 필요한 제작 환경을 제공하고 검색 엔진의 최적화, 정기적 제공 및 랜딩 페이지 최적화를 관리해 줍니다."
+    },
+    {
+      "id": 104,
+      "title": "AEN",
+      "description": "Adobe Edge Network\n서버사이드태깅 구조 에서 브라우저로부터 Reqeust 수집"
+    },
+    {
+      "id": 105,
+      "title": "Adobe Experience Platform",
+      "description": "데이터 수집/관리/통합/개인정보처리 등 고객 경험 애플리케이션을 연결하며 에코시스템을 제공"
+    },
+    {
+      "id": 106,
+      "title": "AL",
+      "description": "Adobe Launch\nAdobe Experience Platform Launch는 다른 Experience Cloud 솔루션을 사용하여 Experience Cloud ID 서비스를 설정, 배포 및 통합하는 데 사용하는 기본 도구입니다."
+    },
+    {
+      "id": 107,
+      "title": "Adobe Target",
+      "description": "A/B 테스트 및 개인화 솔루션"
+    },
+    {
+      "id": 108,
+      "title": "Alloy",
+      "description": "Alloy.js\nAdobe Web SDK Library. Data Stream 이 분기처리 해주는 Edge network."
+    },
+    {
+      "id": 109,
+      "title": "Bridge Script (Java Script)",
+      "description": "Data Elements / digitalData / Custom valiable(변수)들을 dataLayer Object에 설정해서 digitalLayter.push(), webSDK 를 호출하여 데이터를 전송하는 스크립트. 데이터를 전송(Push)할 때 'GTM + 3rd Party Tag' 에서 사용하기 위해 사용하는 Rule 존재함.\n\nProcedure : \nData merge >> formatting >> send to dataLayer.push() + webSDK call\n\nLifecycle : \nUK에서 1개 Rule로 관리(History 포함). 변경사항이 생기면 전사에 배포(API 작성>배포).\nSST 전환 후 Bridge JS 역할이 끝날 수 있는데, Tagging implement 팀에서 진행할 것으로 예상. >> 확인 후 업데이트 필요."
+    },
+    {
+      "id": 110,
+      "title": "CID",
+      "description": "Campaign ID\nGA의 utm 파라미터 형식 처럼 외부 캠페인의 캠페인명, 소스, 매체, 콘텐츠, 키워드 등을 분류"
+    },
+    {
+      "id": 111,
+      "title": "Custom Conversion (eVar)",
+      "description": "AA 의 사용자 정의 변수 (conversion variable).\n어떤 dimension 이 event 에 기여했는지를 볼 때 사용. 나중에 엮인 success event 와 엮일 수 있다."
+    },
+    {
+      "id": 112,
+      "title": "Custom Dimension",
+      "description": "사용자가 customize 하여 사용할 수 있는 항목. 번호가 붙는다."
+    },
+    {
+      "id": 113,
+      "title": "CDP",
+      "description": "Customer Data Platform"
+    },
+    {
+      "id": 114,
+      "title": "Custom Traffic (Prop)",
+      "description": "Traffic variable. Traffic 을 볼 때 사용.\n어떤 call 에서 prop 이 발생하면 해당 call 내에서만 연관되고, 다른 call 과는 연관되지 않는다."
+    },
+    {
+      "id": 115,
+      "title": "Data Elements",
+      "description": "Attribute 를 저장한다. GA의 Data layer 와 같은 개념이다."
+    },
+    {
+      "id": 116,
+      "title": "데이터 요소",
+      "description": "JS 객체, 쿠키, 로컬 스토리지, 쿼리스트링 등 에서 값을 가져오며 다양한 태그에 반복해서 사용한다."
+    },
+    {
+      "id": 117,
+      "title": "Dimension",
+      "description": "차원. 데이터 항목. 문자열 값을 포함하는 AA 의 변수. 페이지, 참조도메인 또는 eVar 를 포함한다."
+    },
+    {
+      "id": 118,
+      "title": "EDDL",
+      "description": "Event Driven Data Layer\n특정 이벤트 (클릭 등) 발생 시 고객의 tracking 정보를 dataLayer array 에 push 하는 방식"
+    },
+    {
+      "id": 119,
+      "title": "EP",
+      "description": "Experience Platform"
+    },
+    {
+      "id": 120,
+      "title": "Extension 확장",
+      "description": "확장은 태그 기능을 확장하는 코드 패키지(JavaScript, HTML 및 CSS)입니다."
+    },
+    {
+      "id": 121,
+      "title": "FPID",
+      "description": "The First Party Device ID\nECID (The Experience Cloud Identify)\nUUID (Universally Unique Identifier)"
+    },
+    {
+      "id": 122,
+      "title": "Metric",
+      "description": "지표. 컬럼. 차원 항목을 수량화 하는 단위로 페이지 뷰, 방문횟수, 체류 시간 등이 있다."
+    },
+    {
+      "id": 123,
+      "title": "MST",
+      "description": "Multi Suite Tagging\n글로벌 RS 뿐 아니라 개별 RS에도 유저 정보를 보낼 수 있게 함"
+    },
+    {
+      "id": 124,
+      "title": "Property 속성",
+      "description": "규칙, 데이터 요소, 구성된 확장, 환경 및 라이브러리의 컬렉션. (웹 / 모바일)\n웹의 경우 속성마다 게시 포함 코드가 한 개 있음. 모바일에는 속성 당 구성 앱 ID 가 하나 있음."
+    },
+    {
+      "id": 125,
+      "title": "RS",
+      "description": "Report Suite\n웹사이트에서 데이터가 발생하면 해당 데이터를 담는 통. GA 의 Property 와 같은 개념\nRS 구분 단위는 사이트. (국가가 아닌 이유는 한 국가에 n개 언어 사이트 존재할 수 있기 때문)"
+    },
+    {
+      "id": 126,
+      "title": "Tag 태그",
+      "description": "사용자의 정보가 담긴 코드 스니펫. 웹분석과 광고, 추적 용도로 사용된다. Adobe 의 태그 관리 기능의 의미도 있다. (즉, 제품명이 Tags)"
+    },
+    {
+      "id": 127,
+      "title": "Standard Dimension",
+      "description": "Adobe 에서 기본으로 제공되는 항목"
+    },
+    {
+      "id": 128,
+      "title": "Segment",
+      "description": "필터 조건. ( Ex : 전체 유저 or 특정 유저의 그룹 기준으로 출력 )"
+    },
+    {
+      "id": 129,
+      "title": "XDM",
+      "description": "Experience Data Model\n고객 경험 데이터를 조직>게 주고 받을 있게 설계된 것."
+    }, {
+      "id": 130,
+      "title": "UTM",
+      "description": "Urchin Tracking Module.\nGoogle Analytics의 전신이라고 볼 수 있는 Urchin Software의 마케팅 캠페인 효과 추적을 위한 URL매개변수입니다. 웹사이트 도착 사용자의 URL을 바탕으로, 트래픽 소스의 필드들을 구성해주는 트래킹 코드입니다. 쉽게 말하면 URL에 UTM을 붙일 경우, 자세한 유입 경로를 알 수 있게 됩니다."
+    },
+    {
+      "id": 131,
+      "title": "Data Layer",
+      "description": "웹사이트에서 태그 관리자로 정보를 전달하기 위한 자바스크립트 개체입니다. 페이지 정보나(페이지 제목, URL) 회원의 구매 정보(결제수단, 상품카테고리) 등을 넣을 수 있습니다. 그리고 그 값을 GTM으로 수집해서 GA에서 분석 용도로 활용할 수 있습니다"
+    },
+    {
+      "id": 132,
+      "title": "Attribution Model",
+      "description": "“기여모델”이란 고객이 구매여정 중에 만나게되는 여러 전환 경로에서 각각의 터치 포인트(ex. 페이스북, 구글, 자사 blog, 유료검색 등) 에 기여도를 어떻게 할당할지를 정하는 방식을 의미합니다"
+    },
+    {
+      "id": 133,
+      "title": "GTM360",
+      "description": "구글 태그 발생시키는 구글 태그매니저 (360을 붙일 경우 돈을 내고 구독하는 경우)\nhttps://support.google.com/tagmanager/answer/6377366?hl=ko"
+    },
+    {
+      "id": 134,
+      "title": "CM360",
+      "description": "Campaign Manager 광고 개제 시스템\nhttps://marketingplatform.google.com/about/campaign-manager-360/"
+    },
+    {
+      "id": 135,
+      "title": "Floodlight",
+      "description": "GA에 데이터를 전송하는 것이 아닌, google 기반 광고 플랫폼에 데이터를 전송하는 태그. GTM 내에 Floodlight 태그 작업을 위한 별도의 기능이 탑재되어 있습니다. Floodlight 태그는 보통 광고를 집행하는 광고 에이전시에서 직접 생성하기 때문에 3rd party 태그영역으로 보시면 되고, 광고 에이전시에서 어떤 로직으로 태그를 구성하는지에 따라 작동방식이나 수집하고자 하는 data가 결정됩니다."
+    },
+    {
+      "id": 136,
+      "title": "ga-ca",
+      "description": "ga-category"
+    },
+    {
+      "id": 137,
+      "title": "ga-ac",
+      "description": "ga-action"
+    },
+    {
+      "id": 138,
+      "title": "ga-la",
+      "description": "ga-label"
+    },
+    {
+      "id": 139,
+      "title": "OSM",
+      "description": "Online Support Manager(Support PIC 법인)"
+    },
+    {
+      "id": 140,
+      "title": "OOTB(Out Of The Box)",
+      "description": "1.Adobe Analytics를 처음 설정하거나 구현할 때 이미 사전 구성되어 있고 바로 사용할 수 있는 기본 기능, 보고서, 기능들을 말합니다.\n 2.추가적인 사용자 정의나 설정 없이 바로 사용할 수 있는 표준 기능들입니다."
+    },    {
+      "id": 141,
+      "title": "SSO(Shared Service Operation)",
+      "description": "EU HQ를 통합하여 별도의 관리 조직 및 운영 방침을 진행하는 방향으로 가고 있다고 함, 그 조직에서 진행하는 프로젝트명(?)"
+    }
+  ]
+}
