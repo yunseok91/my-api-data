@@ -313,7 +313,7 @@
     {
       "id": 62,
       "title": "PIM",
-      "description": "Product Information Management 기간계 (아마 아카마이를 쓴다. 아닐 수도 있다.) PIM에 현지어가 들어가있으면 수정이 안됨"
+      "description": "Product Information Management 제품 정보 관리 AEM 에 PIM 어서링할 수 있는 메뉴가 따로 있으며, 권한이 있어야 접근 가능"
     },
     {
       "id": 63,
@@ -700,7 +700,11 @@
     {
       "id": 140,
       "title": "OOTB(Out Of The Box)",
-      "description": "1.Adobe Analytics를 처음 설정하거나 구현할 때 이미 사전 구성되어 있고 바로 사용할 수 있는 기본 기능, 보고서, 기능들을 말합니다.\n 2.추가적인 사용자 정의나 설정 없이 바로 사용할 수 있는 표준 기능들입니다."
+      "description":[
+        "1.Adobe Analytics를 처음 설정하거나 구현할 때 이미 사전 구성되어 있고 바로 사용할 수 있는 기본 기능, 보고서, 기능들을 말합니다.",
+        "2.추가적인 사용자 정의나 설정 없이 바로 사용할 수 있는 표준 기능들입니다."
+      ]
+
     },    {
       "id": 141,
       "title": "SSO(Shared Service Operation)",
