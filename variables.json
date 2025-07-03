@@ -8,7 +8,7 @@
       "title": "channel",
       "description": "page.pageInfo.site_section\n사이트 섹션"
     },
-    {
+    {  
       "title": "pageType",
       "description": "page.pageInfo.page_type\n페이지 유형"
     },
