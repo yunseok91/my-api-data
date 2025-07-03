@@ -150,199 +150,247 @@
     },
     {
       "title": "eVar1",
-      "description": "page.pageInfo.site_code\n사이트 코드"
+      "description": "Site Code (v1)\n사이트 코드"
     },
     {
       "title": "eVar2",
-      "description": "page.pageInfo.content_group_depth_2,page.pageInfo.content_group\n컨텐츠 그룹 깊이 2단계"
+      "description": "Site Top Navigation (v2)\n사이트 상단 네비게이션"
     },
     {
       "title": "eVar3",
-      "description": "page.pageInfo.content_group_depth_3\n컨텐츠 그룹 깊이 3단계"
+      "description": "Third Level Site Section (v3)\n3단계 사이트 섹션"
     },
     {
       "title": "eVar4",
-      "description": "page.pageInfo.content_group_depth_4\n컨텐츠 그룹 깊이 4단계"
+      "description": "Fourth Level Site Section (v4)\n4단계 사이트 섹션"
     },
     {
       "title": "eVar5",
-      "description": "page.pageInfo.content_group_depth_5\n컨텐츠 그룹 깊이 5단계"
+      "description": "Fifth Level Site Section (v5)\n5단계 사이트 섹션"
     },
     {
       "title": "eVar6",
-      "description": "page.pageInfo.pageTrack\n페이지 추적 정보"
+      "description": "All Page Track (v6)\n모든 페이지 추적"
     },
     {
       "title": "eVar7",
-      "description": "internal_promotion_content\n내부 프로모션 컨텐츠"
+      "description": "Internal Promotion Content (v7)\n내부 프로모션 컨텐츠"
     },
     {
       "title": "eVar8",
-      "description": "ecommerce.items[].item_category\n상품 카테고리"
+      "description": "Product Category (v8)\n상품 카테고리"
+    },
+    {
+      "title": "eVar9",
+      "description": "Display Mode(Action Tracking) (v9)\n디스플레이 모드(액션 추적)"
+    },
+    {
+      "title": "eVar10",
+      "description": "Day Since Last Visits (v10)\n마지막 방문 이후 일수"
     },
     {
       "title": "eVar11",
-      "description": "ecommerce.items[].pvi_product_type\nPVI 상품 유형"
+      "description": "PVI Product Type (v11)\nPVI 상품 유형"
     },
     {
       "title": "eVar12",
-      "description": "ecommerce.items[].item_category2\n상품 카테고리 2"
+      "description": "PVI Product Sub-type (v12)\nPVI 상품 서브 유형"
     },
     {
       "title": "eVar13",
-      "description": "ecommerce.items[].item_category3\n상품 카테고리 3"
+      "description": "PIM Product Sub-type (v13)\nPIM 상품 서브 유형"
+    },
+    {
+      "title": "eVar14",
+      "description": "Model Code (v14)\n모델 코드"
     },
     {
       "title": "eVar15",
-      "description": "ecommerce.items[].item_name\n상품명"
+      "description": "Display Name (v15)\n디스플레이명"
     },
     {
       "title": "eVar16",
-      "description": "video_title\n비디오 제목"
+      "description": "Video Name (v16)\n비디오명"
     },
     {
       "title": "eVar17",
-      "description": "video_segment\n비디오 세그먼트"
+      "description": "Video Segments (v17)\n비디오 세그먼트"
     },
     {
       "title": "eVar18",
-      "description": "page.pageInfo.site_section\n사이트 섹션"
+      "description": "Site Section (v18)\n사이트 섹션"
     },
     {
       "title": "eVar19",
-      "description": "video_url\n비디오 URL"
+      "description": "Video Embedded URL (v19)\n비디오 임베디드 URL"
+    },
+    {
+      "title": "eVar20",
+      "description": "Video Referrer (v20)\n비디오 참조자"
     },
     {
       "title": "eVar21",
-      "description": "search_term\n검색어"
+      "description": "Site Search (v21)\n사이트 검색"
     },
     {
       "title": "eVar22",
-      "description": "search_store_locator\n매장 찾기 검색"
+      "description": "Store Locator (v22)\n매장 찾기"
     },
     {
       "title": "eVar23",
-      "description": "search_support\n지원 검색"
+      "description": "Support Search (v23)\n지원 검색"
     },
     {
       "title": "eVar24",
-      "description": "search_service_locator\n서비스 센터 찾기 검색"
+      "description": "Service Locator Search (v24)\n서비스 센터 찾기"
     },
     {
       "title": "eVar25",
-      "description": "product_click\n상품 클릭"
+      "description": "Product Click (v25)\n상품 클릭"
     },
     {
       "title": "eVar26",
-      "description": "content_click\n컨텐츠 클릭"
+      "description": "Content Click (v26)\n컨텐츠 클릭"
     },
     {
       "title": "eVar27",
-      "description": "gallery\n갤러리"
+      "description": "Gallery (v27)\n갤러리"
     },
     {
       "title": "eVar28",
-      "description": "compared_products\n비교 상품"
+      "description": "Compare (v28)\n비교"
     },
     {
       "title": "eVar29",
-      "description": "social_share\n소셜 공유"
+      "description": "Social Share (v29)\n소셜 공유"
     },
     {
       "title": "eVar30",
-      "description": "form_name\n양식 이름"
+      "description": "Request Submit (v30)\n요청 제출"
     },
     {
       "title": "eVar31",
-      "description": "account_interaction\n계정 상호작용"
+      "description": "Account (v31)\n계정"
     },
     {
       "title": "eVar32",
-      "description": "file_name\n파일 이름"
+      "description": "Download (v32)\n다운로드"
     },
     {
       "title": "eVar33",
-      "description": "page.pageInfo.microsite\n마이크로사이트"
+      "description": "Microsite (v33)\n마이크로사이트"
     },
     {
       "title": "eVar34",
-      "description": "page.pageInfo.support_content\n지원 컨텐츠"
+      "description": "Support Contents (v34)\n지원 컨텐츠"
     },
     {
       "title": "eVar35",
-      "description": "ecommerce.purchase_intention\n구매 의도"
+      "description": "Purchase Intention (v35)\n구매 의도"
     },
     {
       "title": "eVar36",
-      "description": "ecommerce.checkout_interaction\n결제 상호작용"
+      "description": "eCommerce - Unspecified (v36)\neCommerce - 미지정"
     },
     {
       "title": "eVar37",
-      "description": "ecommerce.payment_method\n결제 방법"
+      "description": "eCommerce - Payment Method (v37)\neCommerce - 결제 방법"
     },
     {
       "title": "eVar38",
-      "description": "page.pageInfo.content_id_name\n컨텐츠 ID 이름"
+      "description": "Content ID/Name (v38)\n컨텐츠 ID/이름"
     },
     {
       "title": "eVar39",
-      "description": "page.pageInfo.page_url\n페이지 URL"
+      "description": "URL (v39)\nURL"
     },
     {
       "title": "eVar40",
-      "description": "page.pageInfo.page_name\n페이지 이름"
+      "description": "PageName (v40)\n페이지명"
     },
     {
       "title": "eVar41",
-      "description": "ecommerce.items[].item_id\n상품 ID"
+      "description": "Model Code (v41)\n모델 코드"
     },
     {
       "title": "eVar42",
-      "description": "page.pageInfo.document_referrer\n문서 참조자"
+      "description": "Document Referrer (v42)\n문서 참조자"
+    },
+    {
+      "title": "eVar43",
+      "description": "Clicktale ID (v43)\nClicktale ID"
     },
     {
       "title": "eVar44",
-      "description": "filter_sort\n필터 및 정렬"
+      "description": "Filter and Sort (v44)\n필터 및 정렬"
     },
     {
       "title": "eVar45",
-      "description": "b2b_click_content\nB2B 클릭 컨텐츠"
+      "description": "B2B Contents (v45)\nB2B 컨텐츠"
     },
     {
       "title": "eVar46",
-      "description": "scroll\n스크롤"
+      "description": "Scroll (v46)\n스크롤"
     },
     {
       "title": "eVar47",
-      "description": "search_b2b\nB2B 검색"
+      "description": "B2B Search (v47)\nB2B 검색"
     },
     {
       "title": "eVar48",
-      "description": "home_content_click\n홈 컨텐츠 클릭"
+      "description": "Home Content Click (v48)\n홈 컨텐츠 클릭"
+    },
+    {
+      "title": "eVar49",
+      "description": "Cyber Service Center (v49)\n사이버 서비스 센터"
     },
     {
       "title": "eVar50",
-      "description": "ecommerce.transaction_id\n거래 ID"
+      "description": "PurchaseID (v50)\n구매 ID"
+    },
+    {
+      "title": "eVar51",
+      "description": "Opinion Lab- Survey Tab Click (v51)\nOpinion Lab - 설문 탭 클릭"
+    },
+    {
+      "title": "eVar52",
+      "description": "Opinion Lab- Survey Completion (v52)\nOpinion Lab - 설문 완료"
     },
     {
       "title": "eVar53",
-      "description": "ecommerce.cart_id\n장바구니 ID"
+      "description": "Cart ID (v53)\n장바구니 ID"
     },
     {
       "title": "eVar54",
-      "description": "ecommerce.items[].product_type\n상품 유형"
+      "description": "Sale/Non Sale Product (v54)\n판매/비판매 상품"
     },
     {
       "title": "eVar55",
-      "description": "ecommerce.shop_benefit_program\n쇼핑 혜택 프로그램"
+      "description": "eCommerce - Program (v55)\neCommerce - 프로그램"
     },
     {
       "title": "eVar56",
-      "description": "ecommerce.order_status\n주문 상태"
+      "description": "eCommerce - Order Status (v56)\neCommerce - 주문 상태"
+    },
+    {
+      "title": "eVar57",
+      "description": "AC - Campaign ID (v57)\nAC - 캠페인 ID"
+    },
+    {
+      "title": "eVar58",
+      "description": "AC - Broadlog ID (v58)\nAC - 브로드로그 ID"
+    },
+    {
+      "title": "eVar59",
+      "description": "Platform Order Number (v59)\n플랫폼 주문 번호"
+    },
+    {
+      "title": "eVar60",
+      "description": "Origin Platform (v60)\n원본 플랫폼"
     },
     {
       "title": "eVar61",
-      "description": "search_popular_keyword\n인기 검색어"
+      "description": "Site Search- Popular Keyword (v61)\n사이트 검색 - 인기 키워드"
     },
     {
       "title": "eVar62",
@@ -350,11 +398,11 @@
     },
     {
       "title": "eVar63",
-      "description": "user.visitor_id\n방문자 ID"
+      "description": "Visitor ID (v63)\n방문자 ID"
     },
     {
       "title": "eVar64",
-      "description": "user.guid\n사용자 GUID"
+      "description": "UID (v64)\nUID"
     },
     {
       "title": "eVar65",
@@ -366,27 +414,27 @@
     },
     {
       "title": "eVar67",
-      "description": "user.hashed_samsung_id\n해시된 삼성 ID"
+      "description": "Hashed GCRM ID (v67)\n해시된 GCRM ID"
     },
     {
       "title": "eVar68",
-      "description": "review\n리뷰"
+      "description": "Review (v68)\n리뷰"
     },
     {
       "title": "eVar69",
-      "description": "personalization\n개인화"
+      "description": "Personalization (v69)\n개인화"
     },
     {
       "title": "eVar70",
-      "description": "epromoter_agent_id\nePromoter 에이전트 ID"
+      "description": "AMO EF ID\nAMO EF ID"
     },
     {
       "title": "eVar71",
-      "description": "user.user_id\n사용자 ID"
+      "description": "Client ID (v71)\n클라이언트 ID"
     },
     {
       "title": "eVar73",
-      "description": "page.pageInfo.store_id\n매장 ID"
+      "description": "Multistore ID/Name (v73)\n멀티스토어 ID/이름"
     },
     {
       "title": "eVar74",
@@ -394,63 +442,203 @@
     },
     {
       "title": "eVar75",
-      "description": "target_marketing\n타겟 마케팅"
+      "description": "Target Marketing (v75)\n타겟 마케팅"
+    },
+    {
+      "title": "eVar76",
+      "description": "Star Rating (v76)\n별점"
+    },
+    {
+      "title": "eVar77",
+      "description": "Webmaster Tools Keyword\n웹마스터 도구 키워드"
+    },
+    {
+      "title": "eVar78",
+      "description": "SEO Landing Page URL (v78)\nSEO 랜딩 페이지 URL"
+    },
+    {
+      "title": "eVar79",
+      "description": "Trade-in Device (v79)\n트레이드인 기기"
+    },
+    {
+      "title": "eVar80",
+      "description": "App Link Name (v80)\n앱 링크 이름"
+    },
+    {
+      "title": "eVar82",
+      "description": "App ID (v82)\n앱 ID"
     },
     {
       "title": "eVar83",
-      "description": "ab_testing\nA/B 테스트"
+      "description": "A/B Testing (v83)\nA/B 테스트"
     },
     {
       "title": "eVar84",
-      "description": "bandwidth\n대역폭"
+      "description": "Bandwidth (v84)\n대역폭"
     },
     {
       "title": "eVar85",
-      "description": "page_redirection\n페이지 리디렉션"
+      "description": "Redirection (v85)\n리디렉션"
     },
     {
       "title": "eVar86",
-      "description": "ga_utm\nGA UTM"
+      "description": "GA UTM Code (v86)\nGA UTM 코드"
+    },
+    {
+      "title": "eVar88",
+      "description": "Http Protocol Version (v88)\nHTTP 프로토콜 버전"
     },
     {
       "title": "eVar90",
-      "description": "page.pageInfo.time_spent_on_content\n컨텐츠 체류 시간"
+      "description": "Time Spent on Content (v90)\n컨텐츠 체류 시간"
     },
     {
       "title": "eVar91",
-      "description": "contentsquare\nContentSquare"
+      "description": "Contentsquare (v91)\nContentsquare"
     },
     {
       "title": "eVar92",
-      "description": "page.pageInfo.page_url_without_param\n파라미터 제외 페이지 URL"
+      "description": "URL without Parameter (v92)\n파라미터 제외 URL"
     },
     {
       "title": "eVar94",
-      "description": "gdpr_consent\nGDPR 동의"
+      "description": "GDPR Consent (v94)\nGDPR 동의"
     },
     {
       "title": "eVar95",
-      "description": "live_commerce_player_interaction\n라이브 커머스 플레이어 상호작용"
+      "description": "Live Commerce Player Interaction (v95)\n라이브 커머스 플레이어 상호작용"
+    },
+    {
+      "title": "eVar96",
+      "description": "Link Tracking Taxonomy (v96)\n링크 추적 분류"
+    },
+    {
+      "title": "eVar97",
+      "description": "Social Commerce Widget - Bazaarvoice (v97)\n소셜 커머스 위젯 - Bazaarvoice"
     },
     {
       "title": "eVar98",
-      "description": "page.pageInfo.support_content_id\n지원 컨텐츠 ID"
+      "description": "Support Help Content ID (v98)\n지원 도움말 컨텐츠 ID"
+    },
+    {
+      "title": "eVar107",
+      "description": "Mouse Hover (v107)\n마우스 호버"
     },
     {
       "title": "eVar109",
-      "description": "user.rewards_user\n리워드 사용자"
+      "description": "Rewards User (v109)\n리워드 사용자"
     },
     {
       "title": "eVar110",
-      "description": "user.k1_id\nK1 ID"
+      "description": "K1 ID (v110)\nK1 ID"
+    },
+    {
+      "title": "eVar111",
+      "description": "Community Search (v111)\n커뮤니티 검색"
+    },
+    {
+      "title": "eVar113",
+      "description": "Request ID (v113)\n요청 ID"
     },
     {
       "title": "eVar114",
-      "description": "ecommerce.delivery_date\n배송 날짜"
+      "description": "Delivery Date (v114)\n배송 날짜"
     },
     {
       "title": "eVar115",
-      "description": "ecommerce.delivery_time\n배송 시간"
+      "description": "Owned Product (v115)\n보유 제품"
+    },
+    {
+      "title": "eVar127",
+      "description": "Product Recommendation (v127)\n상품 추천"
+    },
+    {
+      "title": "eVar131",
+      "description": "Video Mode (v131)\n비디오 모드"
+    },
+    {
+      "title": "eVar132",
+      "description": "Video ID (v132)\n비디오 ID"
+    },
+    {
+      "title": "eVar133",
+      "description": "Video Feed ID (v133)\n비디오 피드 ID"
+    },
+    {
+      "title": "eVar134",
+      "description": "Playlist ID (v134)\n플레이리스트 ID"
+    },
+    {
+      "title": "eVar135",
+      "description": "Hashtag (v135)\n해시태그"
+    },
+    {
+      "title": "eVar136",
+      "description": "Personalized Offering (v136)\n개인화 오퍼링"
+    },
+    {
+      "title": "eVar137",
+      "description": "Owned Product List (v137)\n보유 제품 목록"
+    },
+    {
+      "title": "eVar138",
+      "description": "Cart Condition (v138)\n장바구니 상태"
+    },
+    {
+      "title": "eVar141",
+      "description": "My SmartThings Impression (v141)\nMy SmartThings 노출"
+    },
+    {
+      "title": "eVar142",
+      "description": "Personalized cookie value (v142)\n개인화 쿠키 값"
+    },
+    {
+      "title": "eVar143",
+      "description": "Brand Name (v143)\n브랜드명"
+    },
+    {
+      "title": "eVar144",
+      "description": "Seller Hub Attribute Group (v144)\n셀러 허브 속성 그룹"
+    },
+    {
+      "title": "eVar145",
+      "description": "Seller ID (v145)\n셀러 ID"
+    },
+    {
+      "title": "eVar173",
+      "description": "Offline Store ID/Name (v173)\n오프라인 매장 ID/이름"
+    },
+    {
+      "title": "eVar180",
+      "description": "Category from BDC (v180)\nBDC 카테고리"
+    },
+    {
+      "title": "eVar181",
+      "description": "Page type from BDC (v181)\nBDC 페이지 유형"
+    },
+    {
+      "title": "eVar182",
+      "description": "AC - Image URL (v182)\nAC - 이미지 URL"
+    },
+    {
+      "title": "eVar183",
+      "description": "AC - Model Name(SKU) (v183)\nAC - 모델명(SKU)"
+    },
+    {
+      "title": "eVar184",
+      "description": "AC - Model Code (v184)\nAC - 모델 코드"
+    },
+    {
+      "title": "eVar185",
+      "description": "AC - Display Name (v185)\nAC - 디스플레이명"
+    },
+    {
+      "title": "eVar186",
+      "description": "AC - URL (v186)\nAC - URL"
+    },
+    {
+      "title": "eVar250",
+      "description": "Event Type (v250)\n이벤트 유형"
     }
   ],
   "events": [
@@ -460,19 +648,19 @@
     },
     {
       "title": "event2",
-      "description": "PDP View\n상품 상세 페이지 조회"
+      "description": "Hamburger Menu - Search bar Click (e2)\n햄버거 메뉴 - 검색바 클릭"
     },
     {
       "title": "event3",
-      "description": "GNB Navigation Link Click\n글로벌 네비게이션 바 링크 클릭"
+      "description": "GNB Navigation Link Click (e3)\n글로벌 네비게이션 바 링크 클릭"
     },
     {
       "title": "event4",
-      "description": "Footer Link Click\n푸터 링크 클릭"
+      "description": "Footer Link Click (e4)\n푸터 링크 클릭"
     },
     {
       "title": "event5",
-      "description": "Banner Slide Click / Swipe\n배너 슬라이드 클릭/스와이프"
+      "description": "Banner Slide Click / Swipe (e5)\n배너 슬라이드 클릭/스와이프"
     },
     {
       "title": "event6",
@@ -496,263 +684,279 @@
     },
     {
       "title": "event11",
-      "description": "Search Result Click\n검색 결과 클릭"
+      "description": "Seach Result Click (e11)\n검색 결과 클릭"
     },
     {
       "title": "event12",
-      "description": "eCommerce - Payment Success\neCommerce - 결제 성공"
+      "description": "eCommerce - Payment Success (e12)\neCommerce - 결제 성공"
     },
     {
       "title": "event13",
-      "description": "eCommerce - Payment Failure\neCommerce - 결제 실패"
+      "description": "eCommerce - Payment Failure (e13)\neCommerce - 결제 실패"
     },
     {
       "title": "event14",
-      "description": "Video Time\n비디오 시간"
+      "description": "Video Time (e14)\n비디오 시간"
     },
     {
       "title": "event15",
-      "description": "Video Views\n비디오 조회"
+      "description": "Video Views (e15)\n비디오 조회"
     },
     {
       "title": "event16",
-      "description": "Video Completes\n비디오 완료"
+      "description": "Video Completes (e16)\n비디오 완료"
     },
     {
       "title": "event17",
-      "description": "Video Segment Views\n비디오 세그먼트 조회"
+      "description": "Video Segment Views (e17)\n비디오 세그먼트 조회"
     },
     {
       "title": "event18",
-      "description": "Video Milestones (25%)\n비디오 진행률 (25%)"
+      "description": "Video Milestones (25%) (e18)\n비디오 진행률 (25%)"
     },
     {
       "title": "event19",
-      "description": "Video Milestones (50%)\n비디오 진행률 (50%)"
+      "description": "Video Milestones (50%) (e19)\n비디오 진행률 (50%)"
     },
     {
       "title": "event20",
-      "description": "Video Milestones (75%)\n비디오 진행률 (75%)"
+      "description": "Video Milestones (75%) (e20)\n비디오 진행률 (75%)"
     },
     {
       "title": "event21",
-      "description": "Site Search\n사이트 검색"
+      "description": "Site Search (e21)\n사이트 검색"
     },
     {
       "title": "event22",
-      "description": "Store Locator\n매장 찾기"
+      "description": "Store Locator (e22)\n매장 찾기"
     },
     {
       "title": "event23",
-      "description": "Support Search\n지원 검색"
+      "description": "Support Search (e23)\n지원 검색"
     },
     {
       "title": "event24",
-      "description": "Service Locator Search\n서비스 센터 찾기 검색"
+      "description": "Service Locator Search (e24)\n서비스 센터 찾기 검색"
     },
     {
       "title": "event25",
-      "description": "Product Click\n상품 클릭"
+      "description": "Product Click (e25)\n상품 클릭"
     },
     {
       "title": "event26",
-      "description": "Content Click\n컨텐츠 클릭"
+      "description": "Content Click (e26)\n컨텐츠 클릭"
     },
     {
       "title": "event27",
-      "description": "Gallery\n갤러리"
+      "description": "Gallery (e27)\n갤러리"
     },
     {
       "title": "event28",
-      "description": "Compare\n비교"
+      "description": "Compare (e28)\n비교"
     },
     {
       "title": "event29",
-      "description": "Social Share\n소셜 공유"
+      "description": "Social Share (e29)\n소셜 공유"
     },
     {
       "title": "event30",
-      "description": "Request Submit\n요청 제출"
+      "description": "Request Submit (e30)\n요청 제출"
     },
     {
       "title": "event31",
-      "description": "Account\n계정"
+      "description": "Account (e31)\n계정"
     },
     {
       "title": "event32",
-      "description": "Download\n다운로드"
+      "description": "Download (e32)\n다운로드"
     },
     {
       "title": "event33",
-      "description": "Download-B2B\nB2B 다운로드"
+      "description": "Download - B2B (e33)\nB2B 다운로드"
     },
     {
       "title": "event34",
-      "description": "Support contents\n지원 컨텐츠"
+      "description": "Support contents (e34)\n지원 컨텐츠"
     },
     {
       "title": "event35",
-      "description": "Purchase Intention\n구매 의도"
+      "description": "Purchase Intention (e35)\n구매 의도"
     },
     {
       "title": "event36",
-      "description": "eCommerce- RETURN Count\neCommerce - 반품 건수"
+      "description": "eCommerce - RETURN Count (e36)\neCommerce - 반품 건수"
     },
     {
       "title": "event37",
-      "description": "eCommerce- RETURN Revenue\neCommerce - 반품 매출"
+      "description": "eCommerce - RETURN Revenue (e37)\neCommerce - 반품 매출"
     },
     {
       "title": "event38",
-      "description": "eCommerce- RETURN Q'ty\neCommerce - 반품 수량"
+      "description": "eCommerce - RETURN Q'ty (e38)\neCommerce - 반품 수량"
     },
     {
       "title": "event39",
-      "description": "eCommerce- CANCEL Count\neCommerce - 취소 건수"
+      "description": "eCommerce - CANCEL Count (e39)\neCommerce - 취소 건수"
     },
     {
       "title": "event40",
-      "description": "eCommerce- CANCEL Revenue\neCommerce - 취소 매출"
+      "description": "eCommerce - CANCEL Revenue (e40)\neCommerce - 취소 매출"
     },
     {
       "title": "event41",
-      "description": "eCommerce- CANCEL Q'ty\neCommerce - 취소 수량"
+      "description": "eCommerce - CANCEL Q'ty (e41)\neCommerce - 취소 수량"
     },
     {
       "title": "event42",
-      "description": "eCommerce- Confirm Payment\neCommerce - 결제 확인"
+      "description": "eCommerce - Confirm Payment (e42)\neCommerce - 결제 확인"
     },
     {
       "title": "event43",
-      "description": "eCommerce- Update\neCommerce - 업데이트"
+      "description": "eCommerce - Update (e43)\neCommerce - 업데이트"
     },
     {
       "title": "event44",
-      "description": "Filter and Sort\n필터 및 정렬"
+      "description": "Filter and Sort (e44)\n필터 및 정렬"
     },
     {
       "title": "event45",
-      "description": "Microsite\n마이크로사이트"
+      "description": "Microsite (e45)\n마이크로사이트"
     },
     {
       "title": "event46",
-      "description": "Scroll\n스크롤"
+      "description": "Scroll (e46)\n스크롤"
     },
     {
       "title": "event47",
-      "description": "B2B Search\nB2B 검색"
+      "description": "B2B Search (e47)\nB2B 검색"
     },
     {
       "title": "event48",
-      "description": "Home Content Click\n홈 컨텐츠 클릭"
+      "description": "Home Contents Click (e48)\n홈 컨텐츠 클릭"
+    },
+    {
+      "title": "event50",
+      "description": "Pre-purchase (e50)\n사전 구매"
     },
     {
       "title": "event51",
-      "description": "Trade-in Discount\n트레이드인 할인"
+      "description": "Trade-in Discount (e51)\n트레이드인 할인"
     },
     {
       "title": "event52",
-      "description": "List Price (Add to Cart)\n정가 (장바구니 담기)"
+      "description": "List Price (Add to Cart) (e52)\n정가 (장바구니 담기)"
     },
     {
       "title": "event53",
-      "description": "List Price (Order)\n정가 (주문)"
+      "description": "List Price (Order) (e53)\n정가 (주문)"
     },
     {
       "title": "event54",
-      "description": "B2B contents\nB2B 컨텐츠"
+      "description": "B2B contents (e54)\nB2B 컨텐츠"
     },
     {
       "title": "event55",
-      "description": "Buy Online Retailer\n온라인 리테일러에서 구매"
+      "description": "Buy Online Retailer (e55)\n온라인 리테일러에서 구매"
     },
     {
       "title": "event56",
-      "description": "Email Sent\n이메일 발송"
+      "description": "Email Sent (e56)\n이메일 발송"
     },
     {
       "title": "event57",
-      "description": "Email Open\n이메일 열람"
+      "description": "Email Open (e57)\n이메일 열람"
     },
     {
       "title": "event58",
-      "description": "Selling Price (Add to Cart)\n판매가 (장바구니 담기)"
+      "description": "Selling Price (Add to Cart) (e58)\n판매가 (장바구니 담기)"
     },
     {
       "title": "event59",
-      "description": "Email Clicked\n이메일 클릭"
+      "description": "Email Clicked (e59)\n이메일 클릭"
     },
     {
       "title": "event60",
-      "description": "Email Person Clicks\n이메일 개인 클릭"
+      "description": "Email Person Clicks (e60)\n이메일 개인 클릭"
     },
     {
       "title": "event61",
-      "description": "Email Processed\n이메일 처리"
+      "description": "Email Processed (e61)\n이메일 처리"
     },
     {
       "title": "event62",
-      "description": "Email Scheduled\n이메일 예약"
+      "description": "Email Scheduled (e62)\n이메일 예약"
     },
     {
       "title": "event63",
-      "description": "Email Total Bounces\n이메일 총 반송"
+      "description": "Email Total Bounces (e63)\n이메일 총 반송"
     },
     {
       "title": "event64",
-      "description": "Email Unique Clicks\n이메일 고유 클릭"
+      "description": "Email Unique Clicks (e64)\n이메일 고유 클릭"
     },
     {
       "title": "event65",
-      "description": "Email Unique Opens\n이메일 고유 열람"
+      "description": "Email Unique Opens (e65)\n이메일 고유 열람"
     },
     {
       "title": "event66",
-      "description": "Email Unsubscribed\n이메일 구독 취소"
+      "description": "Email Unsubscribed (e66)\n이메일 구독 취소"
+    },
+    {
+      "title": "event67",
+      "description": "AF - Re-engagement (e67)\nAF - 재참여"
     },
     {
       "title": "event68",
-      "description": "Review\n리뷰"
+      "description": "Review (e68)\n리뷰"
+    },
+    {
+      "title": "event69",
+      "description": "AF - Install (e69)\nAF - 설치"
+    },
+    {
+      "title": "event70",
+      "description": "AF - Re-attribution (e70)\nAF - 재귀속"
     },
     {
       "title": "event71",
-      "description": "Genesis MM- Click Throughs\nGenesis MM - 클릭 스루"
+      "description": "Genesis MM- Click Throughs (e71)\nGenesis MM - 클릭 스루"
     },
     {
       "title": "event72",
-      "description": "Genesis MM- View Throughs\nGenesis MM - 뷰 스루"
+      "description": "Genesis MM- View Throughs (e72)\nGenesis MM - 뷰 스루"
     },
     {
       "title": "event73",
-      "description": "Genesis MM- Impressions\nGenesis MM - 노출"
+      "description": "Genesis MM- Impressions (e73)\nGenesis MM - 노출"
     },
     {
       "title": "event74",
-      "description": "Genesis MM- Total Media Cost\nGenesis MM - 총 미디어 비용"
+      "description": "Genesis MM- Total Media Cost (e74)\nGenesis MM - 총 미디어 비용"
     },
     {
       "title": "event75",
-      "description": "Target Marketing\n타겟 마케팅"
+      "description": "Target Marketing (e75)\n타겟 마케팅"
     },
     {
       "title": "event76",
-      "description": "Genesis MM- Interactions\nGenesis MM - 상호작용"
+      "description": "Genesis MM- Interactions (e76)\nGenesis MM - 상호작용"
     },
     {
       "title": "event77",
-      "description": "Genesis DFA- View-through Count\nGenesis DFA - 뷰 스루 카운트"
+      "description": "Genesis DFA- View-through Count (e77)\nGenesis DFA - 뷰 스루 카운트"
     },
     {
       "title": "event78",
-      "description": "Genesis DFA- Impressions\nGenesis DFA - 노출"
+      "description": "Genesis DFA- Impressions (e78)\nGenesis DFA - 노출"
     },
     {
       "title": "event79",
-      "description": "Genesis DFA- Clicks\nGenesis DFA - 클릭"
+      "description": "Genesis DFA- Clicks (e79)\nGenesis DFA - 클릭"
     },
     {
       "title": "event80",
-      "description": "Genesis DFA - DFA Timeouts\nGenesis DFA - DFA 타임아웃"
+      "description": "Genesis DFA - DFA Timeouts (e80)\nGenesis DFA - DFA 타임아웃"
     },
     {
       "title": "event81",
@@ -760,7 +964,7 @@
     },
     {
       "title": "event83",
-      "description": "Content ID/Name\n컨텐츠 ID/이름"
+      "description": "Content ID/Name (e83)\n컨텐츠 ID/이름"
     },
     {
       "title": "event84",
@@ -776,7 +980,7 @@
     },
     {
       "title": "event87",
-      "description": "Media Data(main parameter)- Video Views\n미디어 데이터(주요 파라미터) - 비디오 조회"
+      "description": "My Credits Impression (e87)\nMy Credits 노출"
     },
     {
       "title": "event88",
@@ -796,7 +1000,7 @@
     },
     {
       "title": "event92",
-      "description": "Media Data(plan value)-- Plan Video Views\n미디어 데이터(계획 값) - 계획 비디오 조회"
+      "description": "Recommend Product Impression (e92)\n추천 상품 노출"
     },
     {
       "title": "event93",
@@ -804,71 +1008,135 @@
     },
     {
       "title": "event95",
-      "description": "Live Commerce Player Interaction\n라이브 커머스 플레이어 상호작용"
+      "description": "Live Commerce Interaction (e95)\n라이브 커머스 상호작용"
     },
     {
       "title": "event96",
-      "description": "Link Tracking Taxonomy\n링크 추적 분류"
+      "description": "Link Tracking Taxonomy (e96)\n링크 추적 분류"
     },
     {
       "title": "event97",
-      "description": "Social Commerce Widget - Bazaarvoice\n소셜 커머스 위젯 - Bazaarvoice"
+      "description": "Social Commerce Widget - Bazaarvoice (e97)\n소셜 커머스 위젯 - Bazaarvoice"
+    },
+    {
+      "title": "event98",
+      "description": "AMO Clicks\nAMO 클릭"
     },
     {
       "title": "event99",
-      "description": "mnet dashboard (NEW)\nmnet 대시보드 (신규)"
+      "description": "AMO QS Var\nAMO QS 변수"
     },
     {
       "title": "event100",
-      "description": "mnet dashboard (PDF)\nmnet 대시보드 (PDF)"
+      "description": "AMO Pos Var\nAMO 위치 변수"
     },
     {
       "title": "event101",
-      "description": "Platform Sales\n플랫폼 판매"
+      "description": "Platform Sales (e101)\n플랫폼 판매"
     },
     {
       "title": "event102",
-      "description": "Platform Revenue\n플랫폼 매출"
+      "description": "Platform Revenue (e102)\n플랫폼 매출"
     },
     {
       "title": "event103",
-      "description": "Platform Cancellations\n플랫폼 취소"
+      "description": "Platform Cancellations (e103)\n플랫폼 취소"
     },
     {
       "title": "event104",
-      "description": "Platform Cancellations (Revenue)\n플랫폼 취소 (매출)"
+      "description": "Platform Cancellations (Revenue) (e104)\n플랫폼 취소 (매출)"
     },
     {
       "title": "event105",
-      "description": "Platform Returns\n플랫폼 반품"
+      "description": "Platform Returns (e105)\n플랫폼 반품"
     },
     {
       "title": "event106",
-      "description": "Platform Returns (Revenue)\n플랫폼 반품 (매출)"
+      "description": "Platform Returns (Revenue) (e106)\n플랫폼 반품 (매출)"
     },
     {
       "title": "event107",
-      "description": "Mouse Hover\n마우스 호버"
+      "description": "Mouse Hover (e107)\n마우스 호버"
     },
     {
       "title": "event109",
-      "description": "Time Spent on Content\n컨텐츠 체류 시간"
+      "description": "Time Spent on Content (e109)\n컨텐츠 체류 시간"
     },
     {
       "title": "event110",
-      "description": "Community Search Result Click\n커뮤니티 검색 결과 클릭"
+      "description": "Community Search Result Click (e110)\n커뮤니티 검색 결과 클릭"
     },
     {
       "title": "event111",
-      "description": "Community Search\n커뮤니티 검색"
+      "description": "Community Search (e111)\n커뮤니티 검색"
     },
     {
       "title": "event112",
-      "description": "Community Search Fail\n커뮤니티 검색 실패"
+      "description": "Community Search Fail (e112)\n커뮤니티 검색 실패"
+    },
+    {
+      "title": "event113",
+      "description": "Request ID (e113)\n요청 ID"
     },
     {
       "title": "event114",
-      "description": "Delivery Date\n배송 날짜"
+      "description": "Delivery Date (e114)\n배송 날짜"
+    },
+    {
+      "title": "event115",
+      "description": "Owned Product (e115)\n보유 제품"
+    },
+    {
+      "title": "event125",
+      "description": "Page Speed - TTI (e125)\n페이지 속도 - TTI"
+    },
+    {
+      "title": "event126",
+      "description": "Page Speed - Page Load Time (e126)\n페이지 속도 - 페이지 로드 시간"
+    },
+    {
+      "title": "event127",
+      "description": "Product Recommendation (e127)\n상품 추천"
+    },
+    {
+      "title": "event128",
+      "description": "Live Stream Join (e128)\n라이브 스트림 참여"
+    },
+    {
+      "title": "event129",
+      "description": "Live Stream Quit (e129)\n라이브 스트림 종료"
+    },
+    {
+      "title": "event136",
+      "description": "Personalized Offering (e136)\n개인화 오퍼링"
+    },
+    {
+      "title": "event137",
+      "description": "Owned Product List (e137)\n보유 제품 목록"
+    },
+    {
+      "title": "event141",
+      "description": "My SmartThings Impression (e141)\nMy SmartThings 노출"
+    },
+    {
+      "title": "event143",
+      "description": "Brand Name (e143)\n브랜드명"
+    },
+    {
+      "title": "event144",
+      "description": "Seller Hub Attribute Group (e144)\n셀러 허브 속성 그룹"
+    },
+    {
+      "title": "event145",
+      "description": "Seller ID (e145)\n셀러 ID"
+    },
+    {
+      "title": "event180",
+      "description": "Category from BDC (v180)\nBDC 카테고리"
+    },
+    {
+      "title": "event181",
+      "description": "Page type from BDC (e181)\nBDC 페이지 유형"
     }
   ],
   "commerce": [
