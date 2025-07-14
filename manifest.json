@@ -1,0 +1,25 @@
+{
+    
+  "name": "Samsung Dictionary",
+  "version": "1.2",
+  "manifest_version": 3,
+  "permissions": [
+    "activeTab",
+    "storage"
+  ],
+  "icons": { 
+    "48": "icon-48x48.png",
+    "128": "icon-128x128.png"
+  },
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Samsung CNX"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["popup.js"]
+    }
+  ]
+    
+  }

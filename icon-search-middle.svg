@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20.05" height="20.161" viewBox="0 0 20.05 20.161">
+  <g id="icon-20-Search" transform="translate(-0.427 -0.427)">
+    <g id="icon-search-" transform="translate(0.776 0.832)">
+      <g id="타원_64" data-name="타원 64" transform="translate(0)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2">
+        <circle cx="7.804" cy="7.804" r="7.804" stroke="none"/>
+        <circle cx="7.804" cy="7.804" r="6.804" fill="none"/>
+      </g>
+      <line id="선_60" data-name="선 60" x2="5.185" y2="5.185" transform="translate(13.1 13.156)" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+    <rect id="사각형_274" data-name="사각형 274" width="20" height="20" transform="translate(0.427 0.427)" fill="none"/>
+  </g>
+</svg>

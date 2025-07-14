@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dynamic Popup</title>
+    <!-- CSS 파일을 로드하는 link 태그 추가 -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="box">
+        <div class="container-1">
+            <button type="button" class="icon-search" id="searchButton"></button>
+            <input type="search" id="search" placeholder="Search..." >
+        </div>
+        <!-- 라디오 버튼 추가 -->
+        <div class="radio-buttons">
+            <label><input type="radio" name="searchType" value="what" checked>용어</label>
+            <label><input type="radio" name="searchType" value="nations">Site Code || Subsidiary</label>
+            <label><input type="radio" name="searchType" value="variables">eVar / Event</label> 
+        </div>
+        <!-- 검색 결과를 표시할 컨테이너 -->
+        <div class="searchIn" id="searchIn"></div><!-- ID 수정 -->
+    </div>
+    
+    <script src="popup.js"></script>
+</body>
+</html>
