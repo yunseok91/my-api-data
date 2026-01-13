@@ -40,6 +40,13 @@ document.addEventListener('DOMContentLoaded', function () {
         });
     }
 
+    function makeList(desc) {
+    return `
+        <ul class="mapping-list">
+        ${desc.split(',').map(item => `<li>${item.trim()}</li>`).join('')}
+        </ul>
+    `;
+    }
 
     loadMultipleJSON(jsonFiles, function (jsonData) {
         console.log(jsonFiles, "Json Data 가져와" + jsonData)
@@ -98,7 +105,16 @@ document.addEventListener('DOMContentLoaded', function () {
                         
                         //resultHTML += `<div class="top">섹션: ${item.section}</div>`;
                         resultHTML += `<div class="top">변수명: ${highlightedTitle}</div>`;
-                        resultHTML += `<div class="bottom">매핑값: ${highlightedDesc}</div><hr>`;
+                        //resultHTML += `<div class="bottom">매핑값: ${highlightedDesc}</div><hr>`;
+                        const mappingListHTML = makeList(highlightedDesc);
+                        resultHTML += `
+                            <div class="bottom">
+                                <div class="label">매핑값</div>
+                                ${mappingListHTML}
+                            </div>
+                            <hr>
+                            `;
+
                     });
                 } else {
                     matchingTerms.forEach(term => {

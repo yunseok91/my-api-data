@@ -1060,7 +1060,7 @@
     },
     {
       "title": "event99",
-      "description": "US\n="
+      "description": "US Specific Model Clicks\n미국 특정 모델 클릭"
     },
     {
       "title": "event100",
@@ -1236,7 +1236,7 @@
     },
     {
       "title": "buy",
-      "description": "prop1, prop2, prop3, prop4, prop5, prop6, prop8, prop10, prop29, prop39, prop41, prop64, prop70, prop73, prop75, eVar1, eVar2, eVar3, eVar4, eVar5, eVar6, eVar8, eVar11, eVar12, eVar13, eVar14, eVar15, eVar18, eVar39, eVar40, eVar41, eVar84, eVar92, eVar94, eVar99, listVar1"
+      "description": "prop1, prop2, prop3, prop4, prop5, prop6, prop8, prop10, prop29, prop39, prop41, prop64, prop70, prop73, prop75, eVar1, eVar2, eVar3, eVar4, eVar5, eVar6, eVar8, eVar11, eVar12, eVar13, eVar14, eVar15, eVar18, eVar39, eVar40, eVar41, eVar84, eVar92, eVar94, eVar99, listVar1(us)"
     }
   ]
 }

@@ -51,12 +51,13 @@ body {
   right: -9px;
   width: 34px;
   height: 35px;
-  background: url(icon-search-middle.svg) 0 50% no-repeat;
+  background: url("icon.svg") center no-repeat;
+  background-size: 18px;
   background-color: #ffffff;
   border-radius: 5px;
-  background-position: center;
-  border: 0px;
+  border: 0;
 }
+
 
 #searchIn {
     display: none;
@@ -78,8 +79,23 @@ body {
 }
 
 .bottom {
-    margin-bottom: 10px; /* 아래 간격 조절 */
-    
+  margin-top: 6px;
+}
+
+.bottom .label {
+  font-weight: 600;
+  margin-bottom: 4px;
+}
+
+.mapping-list {
+  margin: 0;
+  padding-left: 16px;
+}
+
+.mapping-list li {
+  font-size: 13px;
+  line-height: 1.6;
+  font-family: monospace; /* 변수 느낌 */
 }
 .searchIn #r{
     color: red;
