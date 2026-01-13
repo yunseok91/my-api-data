@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', function () {
                     // variables, events, commerce 모든 섹션에서 검색
                     const variablesFile = jsonFiles.find(file => file.includes('variables.json'));
                     const variablesData = jsonData[variablesFile];
-                    ['variables', 'events', 'commerce'].forEach(section => {
+                    ['variables', 'events', 'commerce','pagevariables'].forEach(section => {
                         if (variablesData[section]) {
                             const matches = variablesData[section].filter(item =>
                                 item.title.toLowerCase().includes(inputValue) ||
