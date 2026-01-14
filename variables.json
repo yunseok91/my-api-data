@@ -13,7 +13,7 @@
       "description": "page.pageInfo.page_type\n페이지 유형"
     },
     {
-      "title": "prop1",
+      "title": "prop12",
       "description": "page.pageInfo.site_code\n사이트 코드"
     },
     {
@@ -1177,6 +1177,9 @@
     {
       "title": "event181",
       "description": "Page type from BDC (e181)\nBDC 페이지 유형"
+    },{
+      "title": "강현주",
+      "description": "아오 진짜"
     }
   ],
   "commerce": [
