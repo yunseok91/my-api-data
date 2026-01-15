@@ -81,6 +81,10 @@
       "description": "number of search result\n검색결과 수"
     },
     {
+      "title": "prop29",
+      "description": "url without parameter\n파라미터 제외 url"
+    },
+    {
       "title": "prop33",
       "description": "microsite\n마이크로사이트"
     },
@@ -629,7 +633,7 @@
       "description": "Seller ID (v145)\n셀러 ID"
     },
     {
-      "title": "eVar146",
+      "title": "eVar146(us specific)",
       "description": "Navigation Type (v146)\n페이지 로드된 방식"
     },
     {
@@ -675,6 +679,10 @@
     {
       "title": "eVar250",
       "description": "Event Type (v250)\n이벤트 유형"
+    },
+    {
+      "title": "list var1(us specific)",
+      "description": "Onload Default Selection\n상품 기본 정보 리스트"
     }
   ],
   "events": [
@@ -1224,19 +1232,19 @@
   "pagevariables": [
     {
       "title": "home",
-      "description": "prop1\n사이트 코드, prop2\ncollects 2nd depth of page name, prop6\npage track, prop10\n사용자 로그인 상태, prop29, prop39, prop41, prop64, prop70, prop73, prop75, eVar1, eVar2, eVar6, eVar18, eVar39, eVar40, eVar84, eVar92, eVar142, eVar146"
+      "description": "prop1: 사이트 코드, prop2: 컨텐츠 그룹 깊이 2단계, prop6: 페이지 추적 정보, prop10: 사용자 로그인 상태, prop29: 파라미터 제외 url, prop39: 페이지 URL, prop41: 이전 페이지, prop64: GDPR 동의, prop70: 원본 플랫폼, prop73: 페이지 열람률, prop75: 플랫폼 버전, eVar1: 사이트 코드, eVar2: 사이트 상단 네비게이션, eVar6: 모든 페이지 추적, eVar18: 사이트 섹션, eVar39: URL, eVar40: 페이지명, eVar84: 대역폭, eVar92: 파라미터 제외 URL, eVar142: 개인화 쿠키 값"
     },
     {
       "title": "pf",
-      "description": "prop1, prop2, prop3, prop4, prop6, prop10, prop29, prop39, prop41, prop64, prop70, prop73, prop75, eVar1, eVar2, eVar3, eVar4, eVar6, eVar8, eVar18, eVar39, eVar40, eVar84, eVar92, eVar94"
+      "description": "prop1: 사이트 코드, prop2: 컨텐츠 그룹 깊이 2단계, prop3: 컨텐츠 그룹 깊이 3단계, prop4: 컨텐츠 그룹 깊이 4단계, prop6: 페이지 추적 정보, prop10: 사용자 로그인 상태, prop29: 파라미터 제외 url, prop39: 페이지 URL, prop41: 이전 페이지, prop64: GDPR 동의, prop70: 원본 플랫폼, prop73: 페이지 열람률, prop75: 플랫폼 버전, eVar1: 사이트 코드, eVar2: 사이트 상단 네비게이션, eVar3: 3단계 사이트 섹션, eVar4: 4단계 사이트 섹션, eVar6: 모든 페이지 추적, eVar8: 상품 카테고리, eVar18: 사이트 섹션, eVar39: URL, eVar40: 페이지명, eVar84: 대역폭, eVar92: 파라미터 제외 URL, eVar94: GDPR 동의"
     },
     {
       "title": "shop",
-      "description": "prop1, prop2, prop6, prop10, prop29, prop39, prop41, prop64, prop70, prop73, prop75, eVar1, eVar2, eVar6, eVar18, eVar39, eVar40, eVar84, eVar92, eVar94"
+      "description": "prop1: 사이트 코드, prop2: 컨텐츠 그룹 깊이 2단계, prop6: 페이지 추적 정보, prop10: 사용자 로그인 상태, prop29: 파라미터 제외 url, prop39: 페이지 URL, prop41: 이전 페이지, prop64: GDPR 동의, prop70: 원본 플랫폼, prop73: 페이지 열람률, prop75: 플랫폼 버전, eVar1: 사이트 코드, eVar2: 사이트 상단 네비게이션, eVar6: 모든 페이지 추적, eVar18: 사이트 섹션, eVar39: URL, eVar40: 페이지명, eVar84: 대역폭, eVar92: 파라미터 제외 URL, eVar94: GDPR 동의"
     },
     {
       "title": "buy",
-      "description": "prop1, prop2, prop3, prop4, prop5, prop6, prop8, prop10, prop29, prop39, prop41, prop64, prop70, prop73, prop75, eVar1, eVar2, eVar3, eVar4, eVar5, eVar6, eVar8, eVar11, eVar12, eVar13, eVar14, eVar15, eVar18, eVar39, eVar40, eVar41, eVar84, eVar92, eVar94, eVar99, listVar1(us)"
+      "description": "prop1: 사이트 코드, prop2: 컨텐츠 그룹 깊이 2단계, prop3: 컨텐츠 그룹 깊이 3단계, prop4: 컨텐츠 그룹 깊이 4단계, prop5: 컨텐츠 그룹 깊이 5단계, prop6: 페이지 추적 정보, prop8: 상품 카테고리, prop10: 사용자 로그인 상태, prop29: 파라미터 제외 url, prop39: 페이지 URL, prop41: 이전 페이지, prop64: GDPR 동의, prop70: 원본 플랫폼, prop73: 페이지 열람률, prop75: 플랫폼 버전, eVar1: 사이트 코드, eVar2: 사이트 상단 네비게이션, eVar3: 3단계 사이트 섹션, eVar4: 4단계 사이트 섹션, eVar5: 5단계 사이트 섹션, eVar6: 모든 페이지 추적, eVar8: 상품 카테고리, eVar11: PVI 상품 유형, eVar12: PVI 상품 서브 유형, eVar13: PIM 상품 서브 유형, eVar14: 상품 유형, eVar15: 디스플레이명, eVar18: 사이트 섹션, eVar39: URL, eVar40: 페이지명, eVar41: 모델 코드, eVar84: 대역폭, eVar92: 파라미터 제외 URL, eVar94: GDPR 동의, eVar99: PD/buy page 내 구매 cta status, list var1(us specific): 상품 기본 정보 리스트"
     }
   ]
 }
