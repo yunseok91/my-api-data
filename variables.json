@@ -13,7 +13,7 @@
       "description": "page.pageInfo.page_type\n페이지 유형"
     },
     {
-      "title": "prop12",
+      "title": "prop1",
       "description": "page.pageInfo.site_code\n사이트 코드"
     },
     {
@@ -1177,9 +1177,6 @@
     {
       "title": "event181",
       "description": "Page type from BDC (e181)\nBDC 페이지 유형"
-    },{
-      "title": "강현주",
-      "description": "아오 진짜"
     }
   ],
   "commerce": [
@@ -1227,7 +1224,7 @@
   "pagevariables": [
     {
       "title": "home",
-      "description": "prop1, prop2, prop6, prop10, prop29, prop39, prop41, prop64, prop70, prop73, prop75, eVar1, eVar2, eVar6, eVar18, eVar39, eVar40, eVar84, eVar92, eVar142, eVar146"
+      "description": "prop1\n사이트 코드, prop2\ncollects 2nd depth of page name, prop6\npage track, prop10\n사용자 로그인 상태, prop29, prop39, prop41, prop64, prop70, prop73, prop75, eVar1, eVar2, eVar6, eVar18, eVar39, eVar40, eVar84, eVar92, eVar142, eVar146"
     },
     {
       "title": "pf",
