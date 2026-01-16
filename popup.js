@@ -135,7 +135,7 @@ document.addEventListener('DOMContentLoaded', function () {
                                         resultHTML += `<div class="top"> Country : ${subItem.country}</div>`;
                                         resultHTML += `<div class="middle"> Site_code : ${highlightedSiteCode}</div>`;
                                         resultHTML += `<div class="middle"> Subsidiary : ${highlightedSubsidiary}</div>`;
-                                        resultHTML += `<div class="bottom"> URL : <a href='${subItem.url}'>${subItem.url}</a></div>`;
+                                        resultHTML += `<div class="bottom"> URL : <a href='${subItem.url}' target='blank'>${subItem.url}</a></div>`;
 
                                     }
                                 }
